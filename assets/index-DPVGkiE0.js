@@ -9625,7 +9625,7 @@ const sp = [["path", {
                     textTransform: "uppercase",
                     opacity: .9
                 },
-                children: t ? "Sunday" : "Join us as we celebrate our wedding with the blessings of almighty"
+                children: t ? "Sunday" : "Join us as we celebrate our wedding with the blessings of allah"
             })]
         }), n && c.jsxs("div", {
             className: Z.scrollIndicator,
