@@ -9858,7 +9858,7 @@ const sp = [["path", {
                         }), c.jsxs("p", {
                             className: V.parents,
                             children: ["D/O ", c.jsx("br", {}), c.jsx("strong", {
-                                children: "Sideek EH & Muneera ML"
+                                children: "Sideek EH & Muneera MK"
                             })]
                         }), c.jsxs("p", {
                             className: V.address,
@@ -10239,7 +10239,7 @@ const sp = [["path", {
                 children: "Shabin  & Nidha"
             }), c.jsxs("p", {
                 className: $t.sharingHappiness,
-                children: ["Best Compliments", c.jsx("br", {}), c.jsx("strong", {
+                children: ["Sharing Happiness With", c.jsx("br", {}), c.jsx("strong", {
                     children: "Shifa Misria"
                 })]
             })]
